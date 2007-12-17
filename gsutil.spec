@@ -7,7 +7,6 @@ Group:		System/Servers
 URL:		http://www.pkts.ca/gsutil.shtml
 Source:		http://www.pkts.ca/%{name}-%{version}.tar.bz2
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 
 %description
 A utility to dump and restore the configuration of the Grandstream Budgetone
