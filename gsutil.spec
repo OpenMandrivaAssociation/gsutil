@@ -4,7 +4,7 @@ Version:	3.0
 Release:	6
 License:	GPL
 Group:		System/Servers
-URL:		http://www.pkts.ca/gsutil.shtml
+URL:		https://www.pkts.ca/gsutil.shtml
 Source:		http://www.pkts.ca/%{name}-%{version}.tar.bz2
 BuildArch:	noarch
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
